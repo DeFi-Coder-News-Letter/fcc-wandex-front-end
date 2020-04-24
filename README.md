@@ -1,4 +1,4 @@
-# WanDevs Dex Frontend
+# FCC Dex Frontend - Fork of WanDevs Dex Frontend
 
 [![CircleCI](https://circleci.com/gh/HydroProtocol/hydro-sdk-web.svg?style=svg)](https://circleci.com/gh/HydroProtocol/hydro-sdk-web)
 [![microbadger](https://images.microbadger.com/badges/image/hydroprotocolio/hydro-sdk-web.svg)](https://microbadger.com/images/hydroprotocolio/hydro-sdk-web)
